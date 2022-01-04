@@ -1,4 +1,4 @@
-<p align="left"><a href="https://github.com/Thundergang/thunderuserbot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Thundergang&show_icons=true&theme=dark&hide_border=true&repo=thunderuserbot-heroku"></a></p><p align="centre">
+<p align="left"><a href="https://github.com/Thunderbot/thunderuserbot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Thundergang&show_icons=true&theme=dark&hide_border=true&repo=thunderuserbot-heroku"></a></p><p align="centre">
 
 # Deploying on heroku
 
@@ -8,7 +8,7 @@ If you're getting error as the above image.. Don't get worried, Just fork this r
 
 For creating a heroku deploy link from your forked repo, just replace Thundergang from it and put your github username
 ```
-https://heroku.com/deploy?template=https://github.com/Thundergang/thunderuserbot-heroku
+https://heroku.com/deploy?template=https://github.com/Terminator279/thunderuserbot-heroku
 ```
 
 
